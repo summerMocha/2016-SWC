@@ -1,0 +1,35 @@
+
+ .listitem{
+	font-weight: bold;
+}
+
+ .picture{
+	width: 300px;
+}
+
+ .fact{
+	font-style: italic;
+}
+
+ .body{
+	border-style: solid;
+	border-width: thin;
+	border-color: lightgrey;
+	box-shadow: 10px 8px 8px lightgrey;
+	width: 340px;
+}
+
+ .liststyle{
+	list-style: none;
+}
+
+ .information{
+	border-style: solid;
+	border-width: thin;
+	border-color: lightgray;
+	margin: 15px;
+}
+
+ .space{
+	padding: 20px;
+}
