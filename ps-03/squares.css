@@ -14,3 +14,12 @@
         width: auto;
         height: 100%;
       }
+ button{
+        display:inline-block;
+        background:pink;
+        color:gray;
+        margin: auto;
+        padding:auto;
+        width:150px;
+        height:50px;
+}
