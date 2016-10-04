@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     var canvas = document.getElementById('canvas');
     var drawingPad = canvas.getContext('2d');
     drawingPad.fillStyle = "hsla(0,100%,10%,1)";
@@ -13,18 +13,6 @@
     drawingPad.fillRect(0,275,100,100);
 
 
-    //function myFunction()
-    //{
-     // var x="";
-     // var width=new wide()
- //if(width<80)
-  //{
-  //  x="pink";
- // }
- //else
-  //{
-  // x="yellow"
+ 
 
-  //}
 
-  </script>
