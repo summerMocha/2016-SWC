@@ -14,3 +14,16 @@
         width: auto;
         height: 100%;
       }
+<<<<<<< HEAD:ps-03/squares.CSS
+
+      button{
+        display:inline-block;
+        background:pink;
+        color:gray;
+        margin: auto;
+        padding:auto;
+        width:150px;
+        height:50px;
+      }
+=======
+>>>>>>> origin/master:ps-03/squares.css
