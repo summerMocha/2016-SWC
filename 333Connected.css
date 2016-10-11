@@ -1,0 +1,31 @@
+body {
+    font-family: 'Bree Serif', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 20px;
+    bottom:20px;
+    left: 0px;
+    right: 0px;
+  }
+  canvas {
+    border: 10px solid hsl(0,10%,90%);
+    width: 50%;
+    height: 80%;
+  }
+#title{
+  font-size: 20px;
+  font-family: 'Bree Serif', serif;
+  color:grey;
+  display: flex;
+  align-items:baseline;
+  justify-content: center;
+    position: fixed;
+    top: 10px;
+    bottom: 200px;
+    left: 50px;
+    right: 50px;
+
+
+}

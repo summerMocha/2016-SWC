@@ -13,4 +13,9 @@
     drawingPad.fillRect(0,275,100,100);
 
 
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> origin/master
 

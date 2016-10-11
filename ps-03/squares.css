@@ -15,15 +15,24 @@
         height: 100%;
       }
 <<<<<<< HEAD:ps-03/squares.CSS
+<<<<<<< HEAD:ps-03/squares.CSS
 
       button{
+=======
+ button{
+>>>>>>> origin/master:ps-03/squares.css
         display:inline-block;
         background:pink;
         color:gray;
         margin: auto;
         padding:auto;
         width:150px;
+<<<<<<< HEAD:ps-03/squares.CSS
         height:50px;
       }
 =======
+>>>>>>> origin/master:ps-03/squares.css
+=======
+        height:100px;
+}
 >>>>>>> origin/master:ps-03/squares.css
