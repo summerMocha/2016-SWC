@@ -67,5 +67,4 @@ summerMocha.drawBottom(ctx);
 };
 
 window.summerMocha = summerMocha;
-
 summerMocha.drawCorpse(drawingPad);
