@@ -41,20 +41,20 @@ summerMocha.drawGrid = function(ctx) {
 }
 
 summerMocha.drawImageTop = function(ctx) {
-  drawImage('https://summerMocha.github.io/2016-SWC/06/head.jpg', ctx, 0, 0);
+  drawImage('https://summerMocha.github.io/2016-SWC/ps-06/head.png', ctx, 0, 0);
 };
 
 
 
 summerMocha.drawMiddle = function(ctx) {
-  drawImage('https://summerMocha.github.io/2016-SWC/06/body.jpg', ctx, 0, 240);
+  drawImage('https://summerMocha.github.io/2016-SWC/ps-06/body.png', ctx, 0, 240);
 };
 
 
 
 
 summerMocha.drawBottom = function(ctx) {
-  drawImage('https://summerMocha.github.io/2016-SWC/06/legs.jpg', ctx, 0, 480);
+  drawImage('https://summerMocha.github.io/2016-SWC/ps-06/legs.png', ctx, 0, 480);
 };
 
 
@@ -67,3 +67,5 @@ summerMocha.drawBottom(ctx);
 };
 
 window.summerMocha = summerMocha;
+
+summerMocha.drawCorpse(ctx);
