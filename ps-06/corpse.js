@@ -40,7 +40,7 @@ summerMocha.drawGrid = function(ctx) {
   ctx.stroke();
 }
 
-summerMocha.drawImageTop = function(ctx) {
+summerMocha.drawTop = function(ctx) {
   drawImage('https://summerMocha.github.io/2016-SWC/ps-06/head.png', ctx, 0, 0);
 };
 
@@ -68,4 +68,4 @@ summerMocha.drawBottom(ctx);
 
 window.summerMocha = summerMocha;
 
-summerMocha.drawCorpse(ctx);
+summerMocha.drawCorpse(drawingPad);
