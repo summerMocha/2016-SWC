@@ -1,0 +1,22 @@
+
+      body {
+        font-family: 'helvetica', sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+      }
+
+
+  # image2{
+     position: fixed;
+        top: 20px;
+        bottom: 50px;
+        left: 20px;
+        right: 0px;
+
+}
