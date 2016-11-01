@@ -15,14 +15,14 @@ function downArrowPressed() {
 
 function rightArrowPressed() {
    var element = document.getElementById("image1");
-   var top = parseInt(element.style.right) || 0;
+   var right = parseInt(element.style.right) || 0;
    right = right+5;
    element.style.right = right+ "px";
  }
 
 function leftArrowPressed() {
    var element = document.getElementById("image1");
-   var top = parseInt(element.style.left) || 0;
+   var left = parseInt(element.style.left) || 0;
    left = left-5;
    element.style.left = left+ "px";
  }
