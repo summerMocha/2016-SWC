@@ -1,16 +1,22 @@
 body {
-        font-family: 'helvetica', sans-serif;
         display: flex;
         align-items: center;
         justify-content: center;
         position: fixed;
         top: 0px;
         bottom: 350px;
-        left: 50px;
+        left: 250px;
         right: 250px;
       }
-      canvas {
-        border: 10px solid hsl(0,10%,90%);
-        width: 800px;
-        height: 800px;
-      }
+
+
+      h1{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+
+     }
+     h2{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+
+     }

@@ -1,6 +1,7 @@
 
 
   body {
+    background-color: pink;
         font-family: 'helvetica', sans-serif;
         display: flex;
         align-items: center;
@@ -12,6 +13,7 @@
         right: 50px;
       }
       canvas {
+
         border: 10px solid hsl(0,10%,90%);
         width: 800px;
         height: 800px;
