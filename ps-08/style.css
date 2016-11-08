@@ -13,6 +13,6 @@
       }
       canvas {
         border: 10px solid hsl(0,10%,90%);
-        width: auto;
-        height: 100%;
+        width: 800px;
+        height: 800px;
       }

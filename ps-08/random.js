@@ -19,7 +19,7 @@ var drawDot = function (x, y) {
 
   var weight = 20;
   var height = 20;
-  ctx.fillStyle = "yellow"
+  ctx.fillStyle = "#ffffcc"
   ctx.strokeStyle = 'black'
   beginX = beginX + 22;
   if(beginX > 800) {
@@ -38,7 +38,7 @@ setInterval(drawDot, 10);
 
 var drawBubble=function(X1,Y1){
   var R=17;
-  ctx.fillStyle="green"
+  ctx.fillStyle="#238443"
   ctx.strokeStyle="black"
   beginX1=beginX1+22;
   if(beginX1>800){
@@ -58,7 +58,7 @@ setInterval(drawBubble, 10);
 
 var drawPink=function(X2,Y2){
   var R=15;
-  ctx.fillStyle="pink"
+  ctx.fillStyle="#78c679"
   ctx.strokeStyle="black"
   beginX2=beginX2+22;
   if(beginX2>800){
@@ -77,7 +77,7 @@ setInterval(drawPink, 10);
 
 var drawBlue=function(X3,Y3){
   var R=15;
-  ctx.fillStyle="#756bb1"
+  ctx.fillStyle="#c2e699"
   ctx.strokeStyle="black"
   beginX3=beginX3+22;
   if(beginX3>800){
