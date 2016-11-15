@@ -1,0 +1,22 @@
+
+
+  body {
+    background-color: pink;
+        font-family: 'helvetica', sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 50px;
+        bottom: 50px;
+        left: 50px;
+        right: 50px;
+
+      }
+      canvas {
+
+        border: 10px solid  gray;
+        width: 800px;
+        height: 800px;
+
+      }
