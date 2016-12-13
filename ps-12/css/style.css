@@ -1,0 +1,46 @@
+.title_part {
+	height: 800px;
+	background-image: url('../img/back3.jpg');
+	width: 100%;
+}
+
+.header_row {
+	width: 90%;
+	max-width: 1020px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header_title {
+	font: 50px "Open Sans", sans-serif;
+	color: #ffffff;
+}
+
+.header_sub {
+	font: 25px/1.9em "Open Sans", sans-serif;
+	color: #a8a8a8;
+}
+
+.chart {
+	position: relative;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	margin: 20px 30px;
+	text-align: center;
+}
+
+.percentage {
+	line-height: 100px;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.hr_border {
+	border: 1px;
+	border-top: 1px solid #eee;
+}
