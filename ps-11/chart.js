@@ -1,5 +1,8 @@
-var width = 800;
-var height = 800;
+  // A simple scatter plot
+    var width=800;//set the width is 500 px
+   var height=800;//set the height also 500px
+
+
 
 var margin = {
   top: 100,
